@@ -1,0 +1,5 @@
+HOW POINTER WORKS IN C
+
+  into var=10;---------->var[10]
+  int*ptr=&var;..................>[20]
+  int**ptr=&ptr;}.......................>[30]
